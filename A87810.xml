@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches and confession of Arthur Knight, and Thomas Laret, at the places of execution in Russel Street neer Covent-Garden, and at Islington, on Wednesday last, being the second of this instant March, 1653. Being condemned (by order of law) to be hang'd on a gibbet, neer unto the place where they committed the fact: the one, for killing of Major Furnifal; the other, for murthering of his own wife. With the great oath and protestation taken by the said Thomas Laret, immediatly before his death, in the presence of Mr. Cook, the minister: and his exhortation to all men in generall, both in city and countrey, never to strike or beat their wives any more. Published according to order.</title>
+            <author>Knight, Arthur, d. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87810</idno>
+            <idno type="STC">Wing K684</idno>
+            <idno type="STC">Thomason E689_8</idno>
+            <idno type="STC">ESTC R8632</idno>
+            <idno type="EEBO-CITATION">99873357</idno>
+            <idno type="PROQUEST">99873357</idno>
+            <idno type="VID">166449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches and confession of Arthur Knight, and Thomas Laret, at the places of execution in Russel Street neer Covent-Garden, and at Islington, on Wednesday last, being the second of this instant March, 1653. Being condemned (by order of law) to be hang'd on a gibbet, neer unto the place where they committed the fact: the one, for killing of Major Furnifal; the other, for murthering of his own wife. With the great oath and protestation taken by the said Thomas Laret, immediatly before his death, in the presence of Mr. Cook, the minister: and his exhortation to all men in generall, both in city and countrey, never to strike or beat their wives any more. Published according to order.</title>
+                  <author>Knight, Arthur, d. 1653.</author>
+                  <author>Larat, Thomas, d. 1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Horton,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166449:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE SPEECHES AND CONFESSION OF ARTHUR KNIGHT, And THOMAS LARET, At the places of Execution in Ruſſel ſtreet neer Covent-Garden, and at Iſlington, on Wed<g ref="char:EOLhyphen"/>neſday laſt, being the ſecond of this inſtant <hi>March,</hi> 1653.</p>
+            <p>Being condemned (by Order of Law) to be hang'd on a Gibbet, neer unto the place where they committed the Fact: The one, for killing of Major <hi>Furnifal;</hi> The other, for mur<g ref="char:EOLhyphen"/>thering of his own Wife.</p>
+            <p>With the great Oath and Proteſtation taken by the ſaid <hi>Thomas Laret,</hi> immediatly before his Death, in the preſence of M<hi rend="sup">r</hi> 
+               <hi>Cook</hi> the Miniſter: And his Exhortation to all Men in generall, both in City and Coun<g ref="char:EOLhyphen"/>trey, never to ſtrike or beat their Wives any more.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>G. Horton,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="confessions">
+            <pb facs="tcp:166449:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="3" facs="tcp:166449:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>The Speeches and Confeſſion of Arthur Knight, and Thomas Laret, at the pla<g ref="char:EOLhyphen"/>ces of Execution in Ruſſel-ſtreet neer Covent-Garder, and at Iſlington, on Wedneſday laſt, being the ſecond of this inſtant March, 1653.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Wedneſday</hi> laſt being the ſecond of this inſtant <hi>March, Arthur Knight</hi> was brought to the place of Execution in <hi>Ruſſel</hi>-ſtreet, neer <hi>Covent</hi> Gar<g ref="char:EOLhyphen"/>den, where he moſt barbarouſly murthered M. <hi>Furnifal,</hi> who had formerly been a commander in the Army, in which time he behav'd himſelf ſo wel, that he gain'd the love of all ſorts of people, both in city and countrey, for whereſoever he came he had a diligent care that his ſouldiers ſhould do no wrong; yet wee may ſee that the beſt of us all can no wayes prevent danger, but by heavenly providence; as may appear by this Gentleman here ſpoken of, for one day he having been merry with ſome of his friends, his chance was to light on two of his mortal enemies, being brothers in wickedneſs, and Knights
+<pb n="4" facs="tcp:166449:3"/>
+               <!-- PDF PAGE 57 -->
+of the Blade; for meeting with him, they ſaluted him, ſay<g ref="char:EOLhyphen"/>ing, <hi>God ſave you noble Sir;</hi> and after their falſ friendſhip, de<g ref="char:EOLhyphen"/>ſired his company to drink a glaſs of wine or beer, who aſ<g ref="char:EOLhyphen"/>ſenting thereunto, all three went together to Mr. <hi>Bowers,</hi> a Cook, next door unto the Roſe Tavern in <hi>Ruſſel</hi> ſtreet in <hi>Govent</hi> Garden, where having got the ſaid Major into a Room alone, <hi>Tho. Knight</hi> held faſt the chamber door, whilſt his brother <hi>Arthur Knight</hi> in a moſt cruel and bloudy man<g ref="char:EOLhyphen"/>ner fell upon him, wounding him with his knife, ſtabbing him in ſeveral places, and cut his noſe in a moſt grievous manner, and then hauling of him down ſtampt upon him with his feet, till he left him for almoſt dead; which having done, took the money out of his pocket, and ſo run forth into the ſtreet, ſwearing,</p>
+            <q>☞ <hi>God damme, We are now ſufficiently revenged.</hi>
+            </q>
+            <p>The Cook when he ſaw what was done, immediatly followed them; and his wife after him: whereupon <hi>bloudy Arthur</hi> began to draw his ſword, and ſwore he would do as much to him: whereupon the Cook manfully ran into him, and took his weapon, by which meanes he eſcap'd <hi>with</hi> life: ſo the Cooks wife being a good ſpitited woman, ven<g ref="char:EOLhyphen"/>tured her life in her huſbands behalf <hi>(as an honest woman ſhould do)</hi> and held the other brother, or elſe conſequently her huſband might have loſt his life. To be brief, the Gen<g ref="char:EOLhyphen"/>tleman dy'd of his wounds and bruiſes which they had gi<g ref="char:EOLhyphen"/>ven him. One of the brothers is fled and gone; but we hear re-taken: The other by order of Law condemned to dye, and to be hang'd upon a Gibbet neer unto the place where the murther was committed; where accordingly he was executed; but before he went up the Ladder, he made a ſhort ſpeech to the people; the effect whereof take as fol<g ref="char:EOLhyphen"/>loweth:
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <pb n="4" facs="tcp:166449:3"/>
+                           <!-- PDF PAGE 57 -->
+                           <opener>
+                              <salute>Good People,</salute>
+                           </opener>
+                           <p>AS it is a thing too apparent in theſe our di<g ref="char:EOLhyphen"/>ſtracted and froward Times, that Conſcience is fled, and Promiſe broke; even ſo is it verified by the practice and proceedings of many deſperate and haſty-ſpirited men: Which unwarrantable actions, hath now brought me to this untimely end; yet while I live, my heart ſhall not faint me. I ſorrow not to die; but I grieve at the manner of my death. For might I in the field encounter with an adverſa<g ref="char:EOLhyphen"/>ry, and ſo die, it would nothing diſcontent me: Or might I be a prey to ſome wild beaſt, and ſo periſh, I were a happy man. But to fall into the Hangmans hands, Oh me thrice miſerable and unfortunate! Every wrong I have done now called to remem<g ref="char:EOLhyphen"/>brance, wrings a drop of bloud from my heart. O there is nothing to the worm of Conſcience; nor no Hell to a mind toucht with guilt. For as Folly perſwaded me to lead a ſinful life; ſo Juſtice hath at length brought me to a ſorrowful end: Which I deſire patiently to undergo, and the Lord ſtreng<g ref="char:EOLhyphen"/>then me in this Tryal of affliction.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q> Then immediat<g ref="char:EOLhyphen"/>ly after a ſhort Prayer, pertinent to the work of the day, and ſinging of a Pſalm, he went up the Ladder, ſhewing an end of courage even unto the reſoluti<g ref="char:EOLhyphen"/>on of his death. And then lifting up his hands, and ſaying, Lord have mercy upon me, the Executioner did his Office.</p>
+            <div n="Thomas Laret" type="confession">
+               <pb n="6" facs="tcp:166449:4"/>
+               <!-- PDF PAGE 58 -->
+               <head>The Speech and Confeſſion of Thomas Laret, at the place of execution neer Iſlington Church.</head>
+               <p>
+                  <hi>THomas Laret</hi> (by Order of Law) haing received the Sentence of Death to be hang'd upon a Gibbet neer the place where the murder was committed; on Wedneſ<g ref="char:EOLhyphen"/>day laſt he was accordingly brought to the place of execu<g ref="char:EOLhyphen"/>tion, where many hundreds of people frequentd to behold this Object of pity And no ſooner was he come to the ſaid place, but immediatly Mr. <hi>Cook</hi> the Miniſter came, and pro<g ref="char:EOLhyphen"/>poſed ſeveral queſtions unto him, touching his life &amp; con<g ref="char:EOLhyphen"/>verſation, and whether he had not a hand in the murdering of the Cheeſmonger, deſiring him now to clear his con<g ref="char:EOLhyphen"/>ſcience before God and Man.</p>
+               <p>To which he anſwer'd, That he was as innocent of it as the child unborn; and deſired the Lord to bear him Re<g ref="char:EOLhyphen"/>cord of his innocency therein, and of the truth and ſinceri<g ref="char:EOLhyphen"/>ty of his heart, being ſpotleſs and free from any ſuch guilt or crime. This is truth (Sir) and nothing but truth (lay<g ref="char:EOLhyphen"/>ing his hand upon his breaſt) ſaying,
+<q>So help me God.</q>
+               </p>
+               <sp>
+                  <speaker>Cook,</speaker>
+                  <p>I am glad to hear it; but pray reſolve me one thing more.</p>
+               </sp>
+               <sp>
+                  <speaker>Laret.</speaker>
+                  <p>I will. Sir, if I can.</p>
+               </sp>
+               <sp>
+                  <speaker>Cook.</speaker>
+                  <p>I deſire you further to cleer your conſcience of that great Odium, which for ſome years hath lain upon you, about the ſudden death of your former wife; &amp; deal ingenuouſly, I beſeech you, for your poor ſoules ſake, e<g ref="char:EOLhyphen"/>ven now to declare in the preſence of God, Angels &amp; Men, whether or no, you were the occaſion of your former wifes death, as ſome report.</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:166449:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 58 -->
+                  <speaker>Laret.</speaker>
+                  <p>I proteſt (Sir) I am innocent of any ſuch thing, and as I hope for mercy from the great God of Heaven, ſo I here cleer my conſcience, and acquit my ſelf of any ſuch bloudy act, or inhumane crime.</p>
+               </sp>
+               <sp>
+                  <speaker>Cook.</speaker>
+                  <p>What ſay you to the fact for which you are now to ſuffer death.</p>
+               </sp>
+               <sp>
+                  <speaker>Laret.</speaker>
+                  <p>As for the crime which I am adjudg'd to dye for, I take God to witneſs I die innocently; and I proteſt I ne<g ref="char:EOLhyphen"/>ver had the leaſt thought of murdering my deare Wife: no, the Lord knowes my heart, I reſpected her with a ten<g ref="char:EOLhyphen"/>der affection: but 'tis truth, being in a great paſſion at that time, I did both ſtrike her and kick her; for which I hope I have made my peace with God: And I deſire all good people that hears me this day to take warning by me, and to avoid the ſtriking of their wives, either in heat of bloud or out of paſſion: O the heavy ſighs and woful groanes, that have been occaſion'd by thoſe inhumane blowes, ha<g ref="char:EOLhyphen"/>ving been ſore oppreſt upon my lamentable and languiſh<g ref="char:EOLhyphen"/>ing bed of affliction; and many a time, both day and night, have even curſt the hour that ever I was born O the innumerable evils that have compaſſed me about, mine Iniquities have taken hold upon me, ſo that I am not able to look up; they are more then the haires of my head, yet my heart ſhall not fail me: being aſſured, that the mercies of the living Lord doth far exceed my ſins and tranſgreſſi<g ref="char:EOLhyphen"/>ons. O waſh me throughly from mine iniquity, good Lord, and cleanſe me from my ſin. Purge me wirh hyſop, and I ſhall be clean; waſh me, and I ſhall be whiter then ſnow. For thy name ſake, O Lord, pardon mine iniquity, and ſtrengthen me in this great Work that I am to go forth: O let thy glorious countenance ſhine upon me here; ſup<g ref="char:EOLhyphen"/>port me, dear Father, I beſeech thee, during this moment of time that I have to live; and after this life, grant me a glo<g ref="char:EOLhyphen"/>ous
+<pb n="8" facs="tcp:166449:5"/>
+                     <!-- PDF PAGE 59 -->
+change from this thy earthly foot-ſtool, unto thy e<g ref="char:EOLhyphen"/>ternal and everlaſting Throne. And all this I humbly im<g ref="char:EOLhyphen"/>plore for the merits of thy ſon, and my bleſſed Redeemer, our Lord and Saviour Jeſus Chriſt.</p>
+                  <p>Having ended his ſpeech, he deſired to ſee his little girl, which being brought unto him, he embrac'd the poor ſoul, and wept bitterly. But the time being ſhort, his child was taken from him, and carryed back again to its Ant. Then the Miniſter deſired him to prepare himſelf for death, and after prayers, and ſinging of a Pſalm, he went up the Lad<g ref="char:EOLhyphen"/>der; and no ſooner was the Roap put about his neck by the executioner, but immediatly he leapt off the Ladder voluntary of himſelf, before the ſaid Executioner could give the fatal Turn.</p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
